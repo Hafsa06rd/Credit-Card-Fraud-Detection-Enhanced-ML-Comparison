@@ -129,7 +129,7 @@ Five classifiers are instantiated with explicit imbalance correction:
 - Per-class precision, recall, and F1 printed for every model at 4-digit precision
 
 ### Step 8 — Visualisations
-- Seven figures generated and saved as PNG files (see [Results & Visualisations](#-results--visualisations))
+- Seven figures generated and saved as PNG files
 
 ### Step 9 — Export
 - `results_test_metrics.csv` and `results_cv_metrics.csv` saved to the working directory
